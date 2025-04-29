@@ -91,4 +91,10 @@ Interact with the features and enhance your language skills! Enjoy Learning!
 
 -InSync Team
 
+### Snapshot of the app
+<img src="images\Homepage.png" alt="snapshot"/>
+<img src="images\Learnmode.png" alt="snapshot"/>
+<img src="images\Translatepage.png" alt="snapshot"/>
+
+
 
